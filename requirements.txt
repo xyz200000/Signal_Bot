@@ -1,0 +1,8 @@
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+yfinance>=0.2.54
+requests>=2.32
+python-dotenv>=1.0
+vaderSentiment>=3.3.2
+python-telegram-bot[job-queue]>=21.10,<23.0
+pytest>=8.0
